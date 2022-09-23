@@ -16,6 +16,8 @@ Reglerna bör under alla omständigheter och i alla enskilda ögonblick vara skr
 Texten i en ruta är att tolka som ett kriterium för att rutan ska uppfyllas. Då kriteriet uppfylls får samtliga deltagare kryssa av rutan.
 ### § 2.1
 En bingorutas kriterium måste nämna en, och endast en, medlem i sällskapet.
+### § 2.2
+Bingorutan i mitten är en joker, d.v.s. den utgör ett konstant uppfyllt kriterium och behöver inte separat avkryssas.
 ## § 3
 “Enkel” bingo uppnås då fem rutor i rad (horisontellt, vertikalt eller diagonalt) är avkryssade på en spelares bingobricka.
 ### § 3.1
